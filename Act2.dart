@@ -14,4 +14,3 @@ return 4 * width;
 } else {
 return 2 * (width + height);
 }
-}
